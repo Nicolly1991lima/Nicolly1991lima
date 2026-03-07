@@ -10,11 +10,11 @@ Me chamo NICOLLY DE SOUSA LIMA,tenho 35 anos sou natural de Araras interior de S
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCwXjfuAoZjGQXn-p7bTBYyw?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@larissakich">
+    <a href="https://www.youtube.com/@engcomp">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCwXjfuAoZjGQXn-p7bTBYyw?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
