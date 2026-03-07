@@ -8,7 +8,7 @@ Me chamo NICOLLY DE SOUSA LIMA,tenho 35 anos sou natural de Araras interior de S
            title="Subscribe to my YouTube channel" 
            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCwXjfuAoZjGQXn-p7bTBYyw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
       <a href="https://www.youtube.com/c/fknight">
-    <img alt="youtube views" title="YouTube views" src="https://www.youtube.com/channel/UCP2xiLjmU-nnzJjXmWHhJOQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
+    <img alt="youtube views" title="YouTube views" src="http://custom-icon.demolab.com/youtube/channel/vilews/UCwXjfuAoZjGQXn-p7bTBYywcolor=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
     
   <a href="https://github.com/Nicolly1991lima">
          <img alt="followers"
