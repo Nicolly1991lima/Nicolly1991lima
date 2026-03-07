@@ -3,7 +3,7 @@
 Me chamo NICOLLY DE SOUSA LIMA,tenho 35 anos sou natural de Araras interior de São Paulo, conclui o Ensino Superior Bacharel em Tecnologia da Informação , pela Univesp, atualmente curso o último ano de Bacharelado em Engenharia da Computação também na Univesp, também curso Pós graduação em Cibersegurança e Pós Graduação em Inteligencia Artificial na Prátca e MBA em Engenharia de Software Na Universidade Metropolitana De São Paulo. Sou Apaixonada por tecnologia, aprendendo todo dia a desenvolver novas tecnologias e horizontes na era digital.  
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="https://www.youtube.com/@engcomp">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
