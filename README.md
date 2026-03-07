@@ -6,14 +6,20 @@ Me chamo NICOLLY DE SOUSA LIMA,tenho 35 anos sou natural de Araras interior de S
       <a href="https://www.youtube.com/channel/UCP2xiLjmU-nnzJjXmWHhJOQ">
          <img alt="youtube subscribers"
            title="Subscribe to my YouTube channel" 
-           src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/@engcomp?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
+           src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/@engcomp?color=%23E05D44&label=SUBSCRIBE&logo=video&logo
+               Color=white&style=for-the-badge&labelColor=CE4630"/></a>
       <a href="https://www.youtube.com/c/fknight">
  title="YouTube </a>
     
   <a href="https://github.com/Nicolly1991lima">
+        <img
+              alt="you tube views"
+              title="You Tube views"
+              src="http//custom-icon-badges.demolab.com/youtube/channel/views/@engcomp?color=23E1AD0E&logo=eyelogocolor=white&style=for-the-badge&labelcolor=C79600"
          <img alt="followers"
            title="Follow me on Github" 
            src="https://custom-icon-badges.demolab.com/github/followers/Nicolly1991lima?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+     
       <a href="https://github.com/Nicolly1991lima?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Nicolly1991lima?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
